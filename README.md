@@ -1,3 +1,4 @@
+![Abaco stripe](abaco/Abaco_background-1000x275.png)
 # WinPcap-igmp-join
 Example of how to join a IGMPv2 multicast group when using WinPcap.
 > Usage example : sendigmp.exe "rpcap://\Device\NPF_{F7AE2C5A-3C42-4CCA-B034-BD4B3CE9D578}" 
@@ -49,4 +50,4 @@ After issuing a Leave command i.e. sendigmp.exe rpcap://\Device\NPF_{39EFC0AD-AE
 * Wireshark example can be found at https://wiki.wireshark.org/IGMP 
 * Abaco Systems rugged [GS12 Switch](https://www.abaco.com/products/gs12/p3520)
 * Abaco Systems rugged [GBX410 Switch](https://www.abaco.com/products/neternity-gbx410/p2015)
-      
+![Abaco stripe](abaco/Abaco Footer1000x100.png)
